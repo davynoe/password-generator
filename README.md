@@ -19,7 +19,3 @@ Run the app
 ```
 python main.py
 ```
-
-### Other option: Run program via Windows Executable (Windows)
-main.exe is the standalone windows executable
-You don't need to install any required modules. You can run the app directly with this executable instead.
